@@ -1,0 +1,9 @@
+Reactor: reactor_chamber
+
+Methods:
+
+getReactorEnergyOutput
+getMaxHeat
+getHeat
+producesEnergy
+getReactorEUOutput

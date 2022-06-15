@@ -1,0 +1,27 @@
+Reactor: nc_fusion_reactor
+
+Methods:
+
+getFirstFusionFuel
+getEnergyStored
+getTemperature
+getReactorCoolingRate
+getToroidSize
+activate
+isProcessing
+getSecondFusionFuel
+getMaxEnergyStored
+getReactorProcessHeat
+getReactorProcessPower
+getProblem
+isComplete
+getEnergyChange
+getFusionComboHeatVariable
+isHotEnough
+deactivate
+getMaxTemperature
+getReactorProcessTime
+getCurrentProcessTime
+getFusionComboTime
+getEfficiency
+getFusionComboPower

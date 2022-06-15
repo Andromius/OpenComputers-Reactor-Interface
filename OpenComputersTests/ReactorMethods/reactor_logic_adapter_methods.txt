@@ -1,0 +1,22 @@
+Reactor: reactor_logic_adapter
+
+Methods:
+
+getCaseHeat
+getProducing
+setInjectionRate
+getWater
+getMaxCaseHeat
+getMaxEnergy
+isIgnited
+getDeuterium
+getInjectionRate
+getPlasmaHeat
+getMaxPlasmaHeat
+canIgnite
+getSteam
+getIgnitionTemp
+getFuel
+getEnergy
+getTritium
+hasFuel
